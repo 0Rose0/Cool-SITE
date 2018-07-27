@@ -1,2 +1,10 @@
-body{
+.nav-container{
+  background-color: black;
 }
+.nav-item{
+  background-color: black;
+  color: white;
+  font-family: "New Time Roman", Times, serif;
+}
+
+
